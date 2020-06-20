@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <link type="text/css" rel="stylesheet" href="./style.css"/>
+  <title>Controle de gastos</title>
+</head>
+<body>
+
+    <div class="painel">
+
+      <p>Saldo</p>
+      <h3 class="valor">R$0</h3>
+
+    </div>
+
+    <div class="forms">
+      <div id="form1">
+        <input id="despesa" type="number" placeholder="Adicionar Despesa"></input>
+          <button onclick="UpdateSaldo('diminuir')">Adicionar</button>
+      </div>
+      <div id="form2">
+          <input id="ganho" type="number" placeholder="Adicionar Receita"></input>
+          <button onclick="UpdateSaldo('adicionar')">Adicionar</button>
+      </div>
+  </div>
+
+  <footer>
+
+    <script src="./script.js"></script>
+
+  </footer>
+  
+</body>
+</html>

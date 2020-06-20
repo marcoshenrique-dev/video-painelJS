@@ -1,0 +1,87 @@
+body{ /* Corpo do html */
+
+  background-color: rgb(79, 54, 109); /* Cor de fundo */
+
+  margin: 0; /* Removendo padrões do navegador */
+
+  padding: 0;/* Removendo padrões do navegador */
+
+  width: 100%;/* Removendo padrões do navegador */
+
+  height: 100%;/* Removendo padrões do navegador */
+  
+  /*Tipo de display flex - não precisa entender o conceito agora*/
+
+  display: flex; 
+  text-align: center;
+  justify-content: center;
+  
+
+}
+
+html , body{
+  width: 100%;
+  height: 100%;
+  
+}
+
+.painel{ /* Estilizando o painel */
+
+    background-color: rgb(39, 32, 32);
+    color: white;
+    width: 20%;
+    height: 20%;
+    border-radius: 10px;
+    margin-top: 100px;
+       
+  display: inline-block;
+    
+}
+
+p , h3 {
+
+  font-family: Roboto;
+}
+
+.forms { /* Estilizando bloco dos formulários */
+
+  background-color: rgb(48, 29, 59);
+  width: 20%;
+  height: 5%;
+  margin-top: 7%;
+  margin-left: 5%;
+  display: inline-block;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+#form1 , #form2 { 
+
+  margin-top: 20px;
+}
+
+#form1 {
+  margin-top: -20px;
+}
+
+input { /* Estilizando o campo de número */
+
+  outline: none;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgb(0, 0, 7);
+  color: white;
+  
+
+}
+
+button{ /* Estilizando botão */
+
+  outline: none;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+
+}
