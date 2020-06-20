@@ -1,2 +1,4 @@
 # video-painelJS
-Repositório dedicado a armazenar o código desenvolvido no novo vídeo do canal robótica e desafios! Onde mostro a base do JS e proponho um desafio!
+
+Olá pessoal! Esse código foi desenvolvido durante um video que será disponibilizado nessa segunda-feira as 18 horas onde vimos o básico do javascript! Além disso junto ao vimos desenvolvemos o seguinte projeto :
+
