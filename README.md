@@ -19,6 +19,8 @@ Olá pessoal! Esse código foi desenvolvido durante um video que será disponibi
  * [Variáveis e Armazenamento](http://costconsultoria.com.br/roboticaedesafios/principios-do-javascript-00-armazenamento/)
  * Mais conteúdos de programação : [Blog](http://costconsultoria.com.br/roboticaedesafios/)
  
+ Depois de concluído, adicione no seu github e linkedin (e se quiser coloque no instagram e me marque @robotica_e_desafios) - Pode fazer as alteracoes que quiser!
+ 
  ## Curso de dev web que indico para aprender mais :
  [Curso dev web](https://hotm.art/FJ1SJWD)
  
