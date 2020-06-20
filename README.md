@@ -8,8 +8,8 @@ Olá pessoal! Esse código foi desenvolvido durante um video que será disponibi
 
 ## Desafio ⚔️
 
- -[x] Organizar código pela técnica DC
- -[x] Salvar saldo no localStorage para não se perder no refresh da página
+ - [x] Organizar código pela técnica DC
+ - [x] Salvar saldo no localStorage para não se perder no refresh da página
  
  ### Material de apoio
  
